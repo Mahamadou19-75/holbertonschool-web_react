@@ -38,4 +38,4 @@ studentsList.forEach((student) => {
 });
 
 table.appendChild(tbody);
-document.body.appendChild(table);
+document.body.appendChild(table); 
